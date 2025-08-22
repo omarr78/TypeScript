@@ -92,6 +92,5 @@ log(message);
 ```
 
 * The output is plain JavaScript.
-* This shows that **all JavaScript code is valid TypeScript code**.
 
 ---
